@@ -1,10 +1,13 @@
 [package]
-name = "my_todo_list"
+name = "non_fungible_token"
 version = "1.0.0"
 authors = []
 
 [addresses]
-todolist_addr='867aaa80ea34707ae5f2af91f732fdf82038d746d9333291f83933326744af42'
+non_fungible_token = "e5124e2445745fd58762f4c6e49e706f0d155f0e13e43fb268ce72f00703bf07"
+
+
+
 
 [dev-addresses]
 

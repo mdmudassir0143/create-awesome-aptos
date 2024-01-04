@@ -1,12 +1,11 @@
 [package]
-name = "my_todo_list"
+name = "hello_blockchain"
 version = "1.0.0"
 authors = []
 
 [addresses]
-todolist_addr='867aaa80ea34707ae5f2af91f732fdf82038d746d9333291f83933326744af42'
+hello_blockchain_addr='c9acc39e3fa989634351b39751d4bf4a6ead0b4fc746f0c1f838ae096a30a741'
 
-[dev-addresses]
 
 [dependencies.AptosFramework]
 git = "https://github.com/aptos-labs/aptos-core.git"

@@ -1,12 +1,11 @@
 [package]
-name = "my_todo_list"
+name = "basic_math"
 version = "1.0.0"
 authors = []
 
 [addresses]
-todolist_addr='867aaa80ea34707ae5f2af91f732fdf82038d746d9333291f83933326744af42'
+basic_math = "882f50342c46e35c40a296bb761bc30987471938713e819769b460bf98a08924"
 
-[dev-addresses]
 
 [dependencies.AptosFramework]
 git = "https://github.com/aptos-labs/aptos-core.git"

@@ -1,12 +1,11 @@
 [package]
-name = "my_todo_list"
+name = "fungible_token"
 version = "1.0.0"
 authors = []
 
 [addresses]
-todolist_addr='867aaa80ea34707ae5f2af91f732fdf82038d746d9333291f83933326744af42'
+fungible_token =  "6fc937eba60ea78c23b783692aa53c89ff7f760c3dae23c40b1deac92b48017f"
 
-[dev-addresses]
 
 [dependencies.AptosFramework]
 git = "https://github.com/aptos-labs/aptos-core.git"
